@@ -2370,6 +2370,8 @@ label, label + * {
 	height: 150px;
 }
 
+.author { font-weight: bold; }
+
 
 /********** PRODUCT REVIEWS **********/
 

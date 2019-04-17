@@ -3249,6 +3249,12 @@
   <LocaleResource Name="Admin.Catalog.Products.Fields.Sku.Hint">
     <Value>Product stock keeping unit (SKU). Your internal unique identifier that can be used to track this product.</Value>
   </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.Fields.Author">
+    <Value>Author</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.Fields.Author.Hint">
+    <Value>Products author.</Value>
+  </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.Sku.Reserved">
     <Value>The entered SKU is already reserved for the product '{0}'</Value>
   </LocaleResource>

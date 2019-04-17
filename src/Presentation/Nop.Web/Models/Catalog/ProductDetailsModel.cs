@@ -81,6 +81,8 @@ namespace Nop.Web.Models.Catalog
 
         public string PageShareCode { get; set; }
 
+        public string Author { get; set; }
+
         public ProductPriceModel ProductPrice { get; set; }
 
         public AddToCartModel AddToCart { get; set; }

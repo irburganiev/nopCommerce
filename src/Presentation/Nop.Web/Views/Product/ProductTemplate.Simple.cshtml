@@ -137,6 +137,13 @@
                         </div>
                     }
                 </div>
+                @if (!string.IsNullOrEmpty(Model.Author))
+                {
+                    <div>
+                        <span class="label">@T("Admin.Catalog.Products.Fields.Author"):</span>
+                        <span class="value author">@Model.Author</span>
+                    </div>
+                }
                 @await Component.InvokeAsync("Widget", new { widgetZone = PublicWidgetZones.ProductDetailsBeforeCollateral, additionalData = Model })
                 <div class="product-collateral">
                     @await Html.PartialAsync("_ProductSpecifications", Model.ProductSpecifications)
