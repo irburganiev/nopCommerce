@@ -17748,4 +17748,7 @@
   <LocaleResource Name="Wishlist.YourWishlistURL">
     <Value>Your wishlist URL for sharing</Value>
   </LocaleResource>
+  <LocaleResource Name="Plugins.Widgets.AutumnDiscount.AltText">
+    <Value>Caption</Value>
+  </LocaleResource>
 </Language>

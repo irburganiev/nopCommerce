@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "Autumn discount",
+  "SystemName": "Widgets.AutumnDiscount",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.10" ],
+  "Author": "nopCommerce team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.AutumnDiscount.dll",
+  "Description": "This plugin allows you to show autumn discount"
+}
